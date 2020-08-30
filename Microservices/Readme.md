@@ -7,3 +7,5 @@ This Project is made on in28Minute course where it try to use below spring boot 
 5. Spring Eureka Server
 6. Spring Zuul
 7. Zipkin
+
+![Alt text](Microservice_Image.jpg?raw=true "Title")
